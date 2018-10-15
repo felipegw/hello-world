@@ -8,3 +8,5 @@ Have fun.
 I am practicing to use GitHub again. 
 
 Added another line 1.
+
+Highlights in today's programming consist of coding quickly. 
